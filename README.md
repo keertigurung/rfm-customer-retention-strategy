@@ -4,7 +4,7 @@
 
 A UK-based online retailer sells household and office products across the United Kingdom. Over Dec 2010 – Dec 2011, management observed declining repeat purchase rates and wanted to move from a one-size-fits-all marketing approach to segmented, data-driven retention strategies.
 
-**Two questions this project answers:**
+**This project answers two questions:**
 1. Which customer segments drive the most revenue?
 2. Which segments carry the highest churn risk (90+ days without a purchase)?
 
@@ -17,7 +17,7 @@ A UK-based online retailer sells household and office products across the United
 | 3 | Visualization & insights (Power BI) | `RFM Customer Retention Strategy.pbix` |
 | 4 | Project report | `RFM_Customer_Retention_Strategy_Report.pdf` |
 | 5 | Presentation | `RFM Customer Retention Strategy.pptx` |
-| 6 | GitHub repository | This repo |   
+| 6 | GitHub repository | `rfm_customer_retention_strategy` |   
 
 ## Dataset
 
@@ -72,7 +72,7 @@ A UK-based online retailer sells household and office products across the United
 
 ## Tech Stack
 
-- **Python:** pandas, matplotlib
+- **Python:** Pandas, Matplotlib
 - **Database:** PostgreSQL
 - **Visualization:** Power BI
 
@@ -88,6 +88,6 @@ A UK-based online retailer sells household and office products across the United
 ## Limitations
 
 - 90-day churn threshold is a business assumption, not data-driven
-- Single 12-month period; Oct–Nov spike may misclassify seasonal buyers as churned
+- Data covers only 12-month period; Oct–Nov spike may misclassify seasonal buyers as churned
 - No external factors (marketing spend, economic conditions) considered
 - Segment boundaries are rule-based; adjacent quintiles may produce similar profiles   
