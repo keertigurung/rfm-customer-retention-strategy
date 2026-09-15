@@ -15,7 +15,7 @@ A UK-based online retailer sells household and office products across the United
 | 1 | Data preparation & modelling (Python) | `rfm_customer_retention_strategy.ipynb` |
 | 2 | Data analysis (SQL) | `rfm_customer_retention_strategy.sql` |
 | 3 | Visualization & insights (Power BI) | `RFM Customer Retention Strategy.pbix` |
-| 4 | Project report | `RFM_Customer_Retention_Strategy_Report.pdf` |
+| 4 | Project report | `RFM_Customer_Retention_Strategy.pdf` |
 | 5 | Presentation | `RFM Customer Retention Strategy.pptx` |
 | 6 | GitHub repository | `rfm_customer_retention_strategy` |   
 
